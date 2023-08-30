@@ -5,6 +5,5 @@
 #4	Book Title: Applied Data Science by Ian Langmore and Daniel Krasner
     Author    : Ian Langmore and Daniel Krasner
     Book Link : http://columbia-applied-data-science.github.io/appdatasci.pdf
-
     This is a helpful manual for people and students working in the field of data science is "Applied Data Science," co-written by Ian Langmore and Daniel Krasner. The book is     a useful tool for professionals, academics, and self-learners alike because it aims to fill the knowledge gap between theoretical ideas and practical applications. Its         appeal stems from its practical approach, which provides not only theoretical insights but also real-world examples, code snippets, and case studies that clarify how           different data science techniques are implemented. The book illustrates the relevance of data science across numerous domains by concentrating on real-world examples,          supporting a deeper understanding of its potential in problem-solving. The content is enhanced with a thorough and comprehensive perspective owing to the writers expertise     in machine learning, data science, and software engineering.
 
